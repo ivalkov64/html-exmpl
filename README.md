@@ -1,4 +1,4 @@
-# simple-html-site
+# html-exmpl
 
 Example repo.
 
